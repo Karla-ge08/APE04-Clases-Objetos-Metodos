@@ -57,7 +57,7 @@ APE04-Clases-Objetos-Metodos/
 │
 ├── capturas/
 │   ├── ejecucion_cpp.png    # Evidencia de pruebas en consola de C++
-│   ├── ejecucion_java.png   # Evidencia de pruebas en consola de Java
+│   ├── ejecucion_java.png    # Evidencia de pruebas en consola de Java
 │   └── commits_github.png   # Captura del historial del repositorio
 │
 └── README.md                # Documentación del proyecto (Este archivo)
