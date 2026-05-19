@@ -52,8 +52,8 @@ APE04-Clases-Objetos-Metodos/
 │   └── ESTUDIANTES.cpp             # Lógica del programa y Clase Estudiante en C++
 │
 ├── Java/
-│   ├── Main.java            # Clase de control principal con métodos modulares
-│   └── Estudiante.java      # Definición de la clase plantilla (molde POO)
+│   ├── Estudiante.java            # Clase de control principal con métodos modulares
+│   └── Main.java      # Definición de la clase plantilla (molde POO)
 │
 ├── capturas/
 │   ├── ejecucion_cpp.png    # Evidencia de pruebas en consola de C++
