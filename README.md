@@ -49,7 +49,7 @@ El repositorio se encuentra organizado de forma limpia:
 APE04-Clases-Objetos-Metodos/
 │
 ├── Cpp/
-│   └── main.cpp             # Lógica del programa y Clase Estudiante en C++
+│   └── ESTUDIANTES.cpp             # Lógica del programa y Clase Estudiante en C++
 │
 ├── Java/
 │   ├── Main.java            # Clase de control principal con métodos modulares
